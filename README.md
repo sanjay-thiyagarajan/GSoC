@@ -6,23 +6,23 @@
   <tbody>
     <tr>
   <td>
-    <img width="256" alt="" src="https://github.com/sanjay-thiyagarajan/gsoc/assets/42594454/7385349e-837d-4377-b143-f0eebb0c0d42">
+    <img width="320" alt="" src="https://github.com/sanjay-thiyagarajan/gsoc/assets/42594454/7385349e-837d-4377-b143-f0eebb0c0d42">
   </td>
   <td>  
     
-   #### Contributor  
+  <b>Contributor</b><br><br>
   Sanjay Thiyagarajan  
-  
-  #### Organization  
-  [INCF](https://www.incf.org/) - International Neuroinformatics Coordinating Facility
+  <br>
+  <b>Organization</b><br><br>
+  [INCF](https://www.incf.org/) - International Neuroinformatics Coordinating Facility  
   <br>  
   
-  #### Project  
-  Improving [LORIS](https://loris.ca/) data platform 
+  <b>Project</b><br><br>
+  Improving [LORIS](https://loris.ca/) data platform  
   <br>  
   
-  #### Mentors  
-  Christine Rogers, Rolando Acosta, Laetitia Fesselier
+  <b>Mentors</b><br><br>
+  Christine Rogers, Rolando Acosta, Laetitia Fesselier  
   <br>  
       </td>
     </tr>
