@@ -6,7 +6,7 @@
   <tbody>
     <tr>
   <td>
-    <img width="320" alt="" src="https://github.com/sanjay-thiyagarajan/gsoc/assets/42594454/7385349e-837d-4377-b143-f0eebb0c0d42">
+    <img width="50%" alt="" src="https://github.com/sanjay-thiyagarajan/gsoc/assets/42594454/7385349e-837d-4377-b143-f0eebb0c0d42">
   </td>
   <td>  
     <br>
